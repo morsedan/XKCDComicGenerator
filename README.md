@@ -7,6 +7,6 @@ I took a few minutes after class to create an app to display comics from the XKC
 
 To run this app:
 
-clone this repository 
-use Xcode to open the XKCD project 
+clone this repository  
+use Xcode to open the XKCD project  
 install on a device 
